@@ -1,0 +1,8 @@
+<suite name="Suite2" parallel="classes" verbose="1" thead-count="2">
+    <test name="Regression2">
+        <classes>
+            <class name="TestCity"/>
+            <class name="TestParallelCityDate"/>
+        </classes>
+    </test>
+</suite>
